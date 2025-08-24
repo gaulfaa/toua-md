@@ -7,7 +7,7 @@ Big shoutout to: [TOU](https://github.com/slushiegoose/Town-Of-Us), [TOUR](https
 > Join the Discord if you need support or need people to play with!
 
 > [!NOTE]
-> Here's the list of things we made better!
+> Here's the list of things we made better! There are rants, so at the end of the collabsable thing there will be a TL;DR.
 > <details>
 > <summary> Assassin (and Guessers) </summary>
 > Evil Guessers take away the fun from Social Deduction Games (SDGs). The meetings in the game are extremely dull. The only thing you could say was "oh I was here", "no I was there", "she was there" etc etc. You can't even share your information as an Investigative anymore. Do they just keep their information to themselves?
