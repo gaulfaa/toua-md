@@ -1,6 +1,6 @@
 # Town Of Us Amplified
-This is an Among Us mod based on [Town Of Salem](https://www.townofsalem.io/), a rewrite of TOU Mira based on [community feedback](https://docs.google.com/document/d/1It4-qedaFqSCWVu7A9kHNbzO9DgdBxFB_o9XvKG4aNo/edit?usp=sharing). Expect bugs!!!\
-Big shoutouts to: [TOU](https://github.com/slushiegoose/Town-Of-Us), [TOUR](https://github.com/eDonnes124/Town-Of-Us-R), [TOUM](https://github.com/AU-Avengers/TOU-Mira), Det & Xmorph for most of the ideas, modifications & improvements in the mod!
+An Among Us mod based on [Town Of Salem](https://www.townofsalem.io/), a rewrite of TOU Mira based on [community feedback](https://docs.google.com/document/d/1It4-qedaFqSCWVu7A9kHNbzO9DgdBxFB_o9XvKG4aNo/edit?usp=sharing).\
+Big shoutout to: [TOU](https://github.com/slushiegoose/Town-Of-Us), [TOUR](https://github.com/eDonnes124/Town-Of-Us-R), [TOUM](https://github.com/AU-Avengers/TOU-Mira), Det & Xmorph for most of the ideas, modifications & improvements in the mod!
 
 <sup>This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.<sup>
 > [!TIP]
