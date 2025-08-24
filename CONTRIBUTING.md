@@ -1,5 +1,5 @@
 # Contributing
-
+[go to credits](https://github.com/gaulfaa/toua-md/blob/main/CONTRIBUTING.md#credits--resources)\
 Thank you for wanting to contribute to TOUA! When contributing, please make PRs in the dev branch.\
 Allowed:
 - setting & UI changes\
@@ -20,7 +20,8 @@ Disallowed:
   Allowed if you credit wherever credit is due.
 
 # Credits & Resources
-Big thanks to everyone here!
+[go back to contributing guidelines](https://github.com/gaulfaa/toua-md/blob/main/CONTRIBUTING.md#credits--resources)\
+Big thank you to everyone here!\
 [Reactor](https://github.com/NuclearPowered/Reactor) - The framework of the mod\
 [BepInEx](https://github.com/BepInEx) - For hooking game functions\
 [XtraCube](https://github.com/XtraCube) - For the RainbowMod.\
@@ -30,7 +31,7 @@ Big thanks to everyone here!
 [Alexejhero](https://github.com/SubmergedAmongUs/Submerged) - For the Submerged map.
 [Essentials](https://github.com/DorCoMaNdO/Reactor-Essentials) - For created custom game options.\
 
-### Role & Modifier Credits
+## Role & Modifier Credits
 [Among-Us-Sheriff-Mod](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) - For the Sheriff role.\
 [Among-Us-Love-Couple-Mod](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod) - For the inspiration of Lovers role.\
 [ExtraRolesAmongUs](https://github.com/NotHunter101/ExtraRolesAmongUs) - For the Engineer & Medic roles.\
