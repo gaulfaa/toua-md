@@ -17,7 +17,7 @@ Big shoutout to `Det & Xmorph` for most of the modifications & improvements in t
 >
 > Our solution in the mod: it's a role again as an Imp Concealing! There's also some configuration for guessing Investigatives. Of course, if you want every killer to guess, you can toggle the setting in Assassin. Just try one game w/o Assassin and see how much less dull it is during meetings.
 
-
+###### ​
 <details>
 <summary> Why should I switch from my mods to TOUA? </summary>
 - TOUA has custom “sweaty” or “chill” (or anything in between) presets and gamemodes, whichever one speaks to you and your friends.
