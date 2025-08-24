@@ -20,14 +20,11 @@ Big shoutout to `Det & Xmorph` for most of the modifications & improvements in t
 ###### ​
 <details>
 <summary> Why should I switch from my mods to TOUA? </summary>
-- TOUA has custom “sweaty” or “chill” (or anything in between) presets and gamemodes, whichever one speaks to you and your friends.
-There are no annoying welcome or long messages when you join a lobby. However requesting the last game summary or help can be one command away!
-TOUA contains almost all the roles from diverse mods (such as TOHE, TOUR/M), so you won't be missing out on anything. Some roles were deleted or modified to be more balanced with your gameplay experience in mind.
-Experimental builds are available for free in our Discord, where you will also be able to report bugs and suggest ideas. Our staff will be happy to assist you.
-If some words (such as discriminatory content or people spamming “start”) isn’t your cup of tea, there is a built-in automod system!
-TOUA helps everyone use commands by displaying their short descriptions below the chatbox and their argument(s).
-There’s always something to keep you occupied. If it’s a loading screen, we always have tips and tricks or fun facts.
-TOUA remixes EHR’s ideas and adds more ideas into them. 
-For example, the Natural Disasters and Quiz game modes were reworked to the Hunger Games, which goes in-depth more than ND/Quiz, while still keeping the original idea.
-I, project lead of TOUA, genuinely care about feedback and suggestions. Don’t hesitate to ask questions or feedback if you need support.
-If this list wasn't convincing, you can always try TOUA and see if you like it better than the mods you already downloaded. Whatever you do, I respect your decision.
+
+- There aren't any annoying welcome or long messages when you join a lobby. However requesting the last game summary or help can be one command away!
+- TOUA contains almost all the roles from different mods (such as TOHE, TOUR/M), so you won't be missing out on anything. Some roles were deleted or modified to be more balanced with your gameplay experience in mind.
+- Most mods have roles just to bloat it by adding an extra line to the role list. TOUA has only high-quality roles that provide actual information, or help the team.
+- If some words (such as discriminatory content or people spamming “start”) isn’t your cup of tea, there is a built-in automod system!
+- TOUA helps everyone use commands by displaying their short descriptions below the chatbox and their argument(s).
+- TOUA remixes many mods’s ideas and adds more ideas into them. For example, the Natural Disasters and Quiz game modes in the EHR mod were reworked to the Hunger Games. It goes in-depth more than ND/Quiz, while still keeping the original idea.
+- If this list wasn't convincing, you can always try TOUA and see if you like it better than the mods you already downloaded. Whatever you do, I respect your decision.
