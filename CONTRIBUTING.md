@@ -20,7 +20,9 @@ Disallowed:
   Allowed if you credit wherever credit is due.
 
 # Credits & Resources
-[go back to contributing guidelines](#contributing)\
+[go back to contributing guidelines](#contributing)
+
+
 Big thank you to everyone here!\
 [Reactor](https://github.com/NuclearPowered/Reactor) - The framework of the mod\
 [BepInEx](https://github.com/BepInEx) - For hooking game functions\
