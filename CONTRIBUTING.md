@@ -1,3 +1,5 @@
+# Contributing
+
 Thank you for wanting to contribute to TOUA! When contributing, please make PRs in the dev branch.\
 Allowed:
 - setting & UI changes\
