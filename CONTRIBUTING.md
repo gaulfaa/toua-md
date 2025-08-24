@@ -34,13 +34,12 @@ Big thank you to everyone here!
 
 ## Role & Modifier Credits
 * [Term](https://www.twitch.tv/termboii) - For Transporter, Medium, Blackmailer, Plaguebearer, Sleuth, Multitasker and porting v2.5.0 to the new Among Us version (v2021.12.15).
-* [Among-Us-Sheriff-Mod](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) - For the Sheriff role
-* [Among-Us-Love-Couple-Mod](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod) - For the inspiration of Lovers role
+* [Woodi](https://github.com/Woodi-dev) - For the [Sheriff](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) & [Lover](https://www.curseforge.com/among-us/all-mods/love-couple-mod) roles
 * [ExtraRolesAmongUs](https://github.com/NotHunter101/ExtraRolesAmongUs) - For the Engineer & Medic roles
 * [TooManyRolesMods](https://github.com/Hardel-DW/TooManyRolesMods) - For the Investigator & Time Lord roles/mods
-* [TorchMod](https://github.com/tomozbot/TorchMod) - For the inspiration of the Torch modifier
+* [Tomozbot](https://amodsus.com/resources/torch-role.69/) - For the inspiration of the Torch modifier
 * [TheOtherRoles](https://github.com/Eisbison/TheOtherRoles) - For the inspiration of the Vigilante & Tracker roles, as well as the Bait modifier.
-* [5up](https://www.twitch.tv/5uppp) and the Submarine Team - For the inspiration of the Grenadier role.
+* [5up](https://www.youtube.com/@5up) and the Submarine Team - For the inspiration of the Grenadier role.
 * [MyDragonBreath](https://github.com/MyDragonBreath) - For the Trapper and Aurial roles, the Aftermath modifier and support for the new Among Us versions (v2022.6.21, v2023.6.13 & v2023.7.12).
 * [ItsTheNumberH](https://github.com/itsTheNumberH/Town-Of-H) - For the code used for Blind, Bait and partially for Tracker, as well as other bug fixes.
 * [Ruiner](https://github.com/ruiner189/Town-Of-Us-Redux) - For lovers changed into a modifier and Task Tracking.
