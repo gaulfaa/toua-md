@@ -1,5 +1,5 @@
 # Contributing
-[go to credits](https://github.com/gaulfaa/toua-md/blob/main/CONTRIBUTING.md#credits--resources)\
+[go to credits](#credits--resources)\
 Thank you for wanting to contribute to TOUA! When contributing, please make PRs in the dev branch.\
 Allowed:
 - setting & UI changes\
@@ -20,7 +20,7 @@ Disallowed:
   Allowed if you credit wherever credit is due.
 
 # Credits & Resources
-[go back to contributing guidelines](https://github.com/gaulfaa/toua-md/blob/main/CONTRIBUTING.md#credits--resources)\
+[go back to contributing guidelines](#contributing)\
 Big thank you to everyone here!\
 [Reactor](https://github.com/NuclearPowered/Reactor) - The framework of the mod\
 [BepInEx](https://github.com/BepInEx) - For hooking game functions\
