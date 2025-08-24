@@ -6,9 +6,10 @@ Big shoutout to: [TOU](https://github.com/slushiegoose/Town-Of-Us), [TOUR](https
 > [!TIP]
 > Join the Discord if you need support or need people to play with!
 
-> [!IMPORTANT]
+> [!NOTE]
+> Things we made better!
 > <details>
-> <summary> Assassin Improvements (because it sucks!) </summary>
+> <summary> Assassin (and Guessers) </summary>
 > Evil Guessers take away the fun from Social Deduction Games (SDGs). The meetings in the game are extremely dull. The only thing you could say was "oh I was here", "no I was there", "she was there" etc etc. You can't even share your information as an Investigative anymore. Do they just keep their information to themselves?
 > 
 > The worst offender is Detective or even Seer. Examine red, it flashes green. Examine blue, it flashes red. Instincts would make you call a meeting or something, but saying your information means players won't be able to know if purple is green or red. Because I've seen people saying "I think Red may have killed Green" and getting guessed as Detective later. See what I mean?
