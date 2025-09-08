@@ -7,10 +7,12 @@ First release! Thank you for using TOUA!
 * Trapper actually traps the killers now!
 * Vigilante Buff + turn into modifier
 * Jailor Change (Inspo from TOUE!)
-* Prosecutor does nothing inround and just an excuse to gamethrow in meeting
+* Prosecutor does nothing inround and just an excuse to gamethrow in meeting. For that, it is removed.
 * Altruist reworked to actually 'sacrifice themselves' to save another Crew
 * Cleric given Medic's abilities, Medic was removed (this may be reverted)
 * Engineer actually has to fix the sabotages now!
+* Traitor keeps their roles and abilities, however they may change their role to an Impostor. They can be guessed as their original Crewmate role, the role they have chosen as an Impsotor, or as "Traitor".
+* Blackmailer now has a red-blue pill situation
 * Eclipsal-Grenadier cannot co-exist (their ability are  merged, however this may be reverted)
 * Soul Collector name change to Reaper. Soul Collector is changed to be a member of the Apocalyptic faction (see below)
 
@@ -36,5 +38,29 @@ The Coven have the goal to eliminate everybody opposing their team, gaining majo
 * Voodoo Master - Manipulate a voodoo doll made out of someone like a puppet!
 
 After every round, a book (in the modifiers section) will be given to one of the witches in the Coven, in which the spawn chances are suitable. The book gives the Witch more abilities!
+
+## New Roles & Modifiers!
+### Crewmate
+* Overseer (Crew Investigative)
+Get access to the admin tables, security system and vitals at anytime. Do your tasks to gain extra information from the panels.
+* Astral (Crew Investigative)
+Enter the Astral form to catch the Impostors!
+* Dronist (Crew Investigative)
+Catch killers in the act by flying drones!
+### Neutral
+* Spectator (Game Outlier - Ntl Benign)
+Spectator can spectate the game, and may have extra abilities, similar to a Mercenary (?)
+* Yandere (Neutral Evil)
+Be obsessed with your selected target!
+* Ritualist (Neutral Evil) - may be deleted!
+Drag bodies to shrines on the map to complete the ceremony!
+* Egoist (Neutral Killing)
+Defy the Impostors, win as yourself.
+* Predator (Neutral Killing)
+Strike when they are the most vulnerable!
+* Retributionist (Neutral Killing)
+Hold retribution to kill your killer!
+* Vulture (Neutral Killing)
+Satisfy your hunger and need for power
 
 
