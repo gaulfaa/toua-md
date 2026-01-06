@@ -1,20 +1,28 @@
-# Town Of Us Amplified v1.0.0
-First release! Thank you for using TOUA!
-## **Role Improvements**
-* Haunter was scrapped (buggy and hard to combat)
+# Town Of Us Amplified v0.0.1
+First pre-release! Please test it out and report bugs in the Discord.
+
+Thank you for using TOUA!
+## Role Changes
+* Altruist Removed
+* Forensic (Detective) reworked into Coroner (TOS2)
+* Haunter Removed
+* Investigator Footprint Role Removed
+* Lookout Reworked
+* Snitch Removed
+* Trapper Reworked to actually Trap!
+* Deputy Extra Ability
+* Hunter Removed
+* Vigilante Removed
+* Swapper Removed
+* Oracle Removed
+* Transporter Reworked
 * Medium can have multiple ghost watching strategies, one of them using Mystic's ability
-* Mystic's buffed to have a longer arrow time when tasks are done
-* Trapper actually traps the killers now!
-* Vigilante Buff + turn into modifier
 * Jailor Change (Inspo from TOUE!)
 * Prosecutor does nothing inround and just an excuse to gamethrow in meeting. For that, it is removed.
-* Altruist reworked to actually 'sacrifice themselves' to save another Crew
-* Cleric given Medic's abilities, Medic was removed (this may be reverted)
 * Engineer actually has to fix the sabotages now!
 * Traitor keeps their roles and abilities, however they may change their role to an Impostor. They can be guessed as their original Crewmate role, the role they have chosen as an Impsotor, or as "Traitor".
 * Blackmailer now has a red-blue pill situation
 * Eclipsal-Grenadier cannot co-exist (their ability are  merged, however this may be reverted)
-* Soul Collector name change to Reaper. Soul Collector is changed to be a member of the Apocalyptic faction (see below)
 
 ## **New Factions!**
 ### **The Apocalyptic Faction**
