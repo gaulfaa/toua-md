@@ -1,4 +1,4 @@
-# Town Of Us Amplified v0.0.1
+# Town Of Us Amplified Beta Release v0.0.1
 First pre-release! Please test it out and report bugs in the Discord.
 
 Thank you for using TOUA!
@@ -15,60 +15,43 @@ Thank you for using TOUA!
 * Vigilante Removed
 * Swapper Removed
 * Oracle Removed
-* Transporter Reworked
+* Doomsayer Reworked
 * Medium can have multiple ghost watching strategies, one of them using Mystic's ability
-* Jailor Change (Inspo from TOUE!)
-* Prosecutor does nothing inround and just an excuse to gamethrow in meeting. For that, it is removed.
+* Jailor Minor Rework (Inspo from TOUE)
+* Prosecutor Reworked to be more faithful to TOS2 Prosecutor
 * Engineer actually has to fix the sabotages now!
-* Traitor keeps their roles and abilities, however they may change their role to an Impostor. They can be guessed as their original Crewmate role, the role they have chosen as an Impsotor, or as "Traitor".
-* Blackmailer now has a red-blue pill situation
-* Eclipsal-Grenadier cannot co-exist (their ability are  merged, however this may be reverted)
+* Traitor no longer changes their role, but instead only changes factions.
+* Abilities of Eclipsal/Grenadier merged
+
+## Role Additions
+New roles are added, most from TOS2.
+### Crewmates
+See for them yourself!
+### Coven
+See below.
+### Neutral
+* Killing: Shroud (TOS2), Sovereign (Rework from TOS2 WW)
+* Apocalypse: See below.
 
 ## **New Factions!**
 ### **The Apocalyptic Faction**
-Instead of there having only Plaguebearer transforming into Horseman of the Apocalypse (Pestilence), there are now multiple roles that can do so!
-* Plaguebearer - Infect everyone with the Plague to become Pestilence
-* Berserker - Get enough kills to become Pestilence
-* Soul Collector - Put reap marks on players, collecting their souls to become Pestilence
-
-More may be to come, but that's it for now! Obviously these roles cannot co-exist together, and Berserker can't co-exist with Juggernaut.
-
+Alignment: Neutral Apocalypse\
+* **Plaguebearer** - Infect everyone with the *Plague* to become **Pestilence**, Horseman of the Apocalypse!
+* **Berserker** - Get enough kills to obtain special powers and become **War**, Horseman of the Apocalypse!
+* **Soul Collector** - Reap players' souls to transform into **Death**, Deliver of Armagaeddon and Horseman of the Apocalypse!
+* **Tax Collector** - Take the money of the innocent and transform into **Grimoire**, Horseman of the Apocalypse!
 
 ### **The Coven Faction**
-This is only useful for Crowded players, but there's a new faction! Impostors, but they have extra witchy abilities!\
-The Coven have the goal to eliminate everybody opposing their team, gaining majority.
-* Witch - A default role of the member of the Coven (similar to Crewmate from the crewmate faction)
-* Coven Leader - Retrain fellow Coven members!
-* Illutionist - Sell the illusion to Investigatives, then victimize someone. If the Investigatives are to find out a witch is evil, they will see the victimized person as evil instead.
-* Medusa - Stone players and wait for their death to unlock ability/team perks!
+The Impostors if they have supernatural abilities involving black magic...\
+The Coven have the goal to eliminate everybody opposing their team, gaining majority, just like Impostors.\
+Unlike Impostors, Coven members must obtain the Necronomicon to kill players!
+* Coven Leader - Lead the Coven members to victory!
+* Illutionist - Sell the illusion to Investigatives, then victimize someone to make them show as good/evil!
 * Potionist - Use your potions to help the team!
 * Conjurer - Kill and drop meteors!
 * Voodoo Master - Manipulate a voodoo doll made out of someone like a puppet!
-
-After every round, a book (in the modifiers section) will be given to one of the witches in the Coven, in which the spawn chances are suitable. The book gives the Witch more abilities!
-
-## New Roles & Modifiers!
-### Crewmate
-* Overseer (Crew Investigative)
-Get access to the admin tables, security system and vitals at anytime. Do your tasks to gain extra information from the panels.
-* Astral (Crew Investigative)
-Enter the Astral form to catch the Impostors!
-* Dronist (Crew Investigative)
-Catch killers in the act by flying drones!
-### Neutral
-* Spectator (Game Outlier - Ntl Benign)
-Spectator can spectate the game, and may have extra abilities, similar to a Mercenary (?)
-* Yandere (Neutral Evil)
-Be obsessed with your selected target!
-* Ritualist (Neutral Evil) - may be deleted!
-Drag bodies to shrines on the map to complete the ceremony!
-* Egoist (Neutral Killing)
-Defy the Impostors, win as yourself.
-* Predator (Neutral Killing)
-Strike when they are the most vulnerable!
-* Retributionist (Neutral Killing)
-Hold retribution to kill your killer!
-* Vulture (Neutral Killing)
-Satisfy your hunger and need for power
+* Necromancer - Utilize dead roles to benefit the team once more!
+* Witch - Control players to target other players!
+* Cultist (Outlier) - Convert somebody into a Coven member!
 
 
